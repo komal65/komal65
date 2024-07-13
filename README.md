@@ -1,5 +1,9 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Komal shingavi</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komal65&label=Profile%20views&color=0e75b6&style=flat" alt="komal65" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal65" alt="komal65" /></a> </p>
+
 ### :woman_technologist: About Me 
 
 👩🏻‍💻 Pronouns: She/Her
