@@ -8,9 +8,9 @@
 
 👩🏻‍💻 Pronouns: She/Her
 
-💼 I’m a Frontend web Developer. 
+💼 I’m a Fullstack web Developer. 
 
-📋 I've previously worked as a Backend  Developer  at PCCOER on Online college Admission website.
+📋 I've previously worked as a Backend  Developer  at PCCOER on Online college Admission website and Frontend developer in PHN Technology.
 
 🎒 I've done almost 2 internships in frontend primarily.
 
