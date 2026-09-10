@@ -8,7 +8,7 @@
 
 👩🏻‍💻 Pronouns: She/Her
 
-💼 I’m a Fullstack web Developer. 
+💼 I’m a Software developer at Dassualt systems. 
 
 📋 I've previously worked as a Backend  Developer  at PCCOER on Online college Admission website and Frontend developer in PHN Technology.
 
